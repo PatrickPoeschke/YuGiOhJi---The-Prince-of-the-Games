@@ -1,6 +1,9 @@
 # YuGiOhJi---The-Prince-of-the-Games
 Source code to the 2D video card game YuGiOhJi
 
+Download link:
+https://patrick-poeschke.itch.io/yugiohji-the-prince-of-the-games
+
 2D single player trading card game: 18 different cards and 36 monsters: deck building+3AIs
 
 YuGiOhJi - the Prince of the Games is an hommage to Yu-Gi-Oh! ("king of the games"). 
@@ -30,3 +33,5 @@ REQUIREMENTS:
 Version info:
 This is version 1.0 of the game. Possible future versions will be updated here and may have a more challanging AI. If you spot a bug, you can report it here or on itch.io in the comments.
 
+v1.0
+18th Jul. 2019
