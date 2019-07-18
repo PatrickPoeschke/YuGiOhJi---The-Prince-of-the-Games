@@ -20,7 +20,7 @@ FEATURES:
 * deck building: If you don't like hand traps, let the computer play with the "no hand traps"-deck.
 * mods: switch on/off several alternative game rules
 * mods: choose with how many cards and life points you want to start with
-* 3 computer opponents: challange the defensive, the balanced or the aggressive computer opponent
+* 3 computer opponents: challenge the defensive, the balanced or the aggressive computer opponent
 * info windows: optional windows showing detailed information about each card including hints from the strategy guide 
 (see Advanced Strategies and Hints.pdf)
 * free to play: game + rulebook + strategy guide for free!
@@ -31,7 +31,7 @@ REQUIREMENTS:
 * 4mb disk space (almost nothing)
 
 Version info:
-This is version 1.0 of the game. Possible future versions will be updated here and may have a more challanging AI. If you spot a bug, you can report it here or on itch.io in the comments.
+This is version 1.0 of the game. Possible future versions will be updated here and may have a more challenging AI. If you spot a bug, you can report it here or on itch.io in the comments.
 
 v1.0
 18th Jul. 2019
