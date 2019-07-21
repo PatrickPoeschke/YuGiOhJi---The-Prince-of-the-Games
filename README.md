@@ -33,10 +33,10 @@ REQUIREMENTS:
 Version info:
 
 v1.0
-uploaded 18th Jul. 2019
+(18th Jul. 2019)
 
 v1.1
-uploaded 20th Jul. 2019
+(21st Jul. 2019)
 
 NEW FEATURES OF VERSION 1.1:
 * one minor bug fixed (Now the opponent doesn't attack with zero attack value any more.)
