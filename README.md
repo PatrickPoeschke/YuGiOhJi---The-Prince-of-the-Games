@@ -42,6 +42,9 @@ NEW FEATURES OF VERSION 1.1:
 * one minor bug fixed (Now the opponent doesn't attack with zero attack value any more.)
 * one optional rule added (the "Anti Dragon Ruler" rule)
 
-I haven't really figured out this whole branch system on GitHub yet. I simply only added the updated files for version 1.1, which are supposed to replace the old ones with the same names in the folder src/yugiohji/.
+v1.1.1
+(24th Jul. 2019)
+* minor bugs fixed (Now checking the usability of Skill Stealer on face down equip cards is consistent.)
+* minor bugs fixed (about deciding when to discard Neutraliser in AIinterrupts.java)
 
 Possible future versions will be updated here and may have a more challenging AI. If you spot a bug, you can report it here or on itch.io in the comments.
