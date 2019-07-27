@@ -39,12 +39,22 @@ v1.1
 (21st Jul. 2019)
 
 NEW FEATURES OF VERSION 1.1:
-* one minor bug fixed (Now the opponent doesn't attack with zero attack value any more.)
 * one optional rule added (the "Anti Dragon Ruler" rule)
+* one minor bug fixed (Now the opponent doesn't attack with zero attack value any more.)
 
 v1.1.1
 (24th Jul. 2019)
 * minor bugs fixed (Now checking the usability of Skill Stealer on face down equip cards is consistent.)
 * minor bugs fixed (about deciding when to discard Neutraliser in AIinterrupts.java)
+
+v1.2
+(27th Jul. 2019)
+
+NEW FEATURES OF VERSION 1.2
+* improved AI
+* improved info window
+* several bugs fixed
+
+Here are all versions of the game. Possible future versions will be updated here and may have a more challenging AI. If you spot a bug, you can either report it here in the comments or on GitHub.
 
 Possible future versions will be updated here and may have a more challenging AI. If you spot a bug, you can report it here or on itch.io in the comments.
